@@ -5,6 +5,7 @@ This project is designed to track AWS resources like EC2 instances, S3 buckets,A
 ## Usage 
 
 1. Clone the repository to your local machine using git clone
+      ```
       git clone https://github.com/Aditya0108-ux/aws-resource-tracker.git
       cd aws_resource_tracker
    
