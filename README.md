@@ -33,4 +33,11 @@ This project is designed to track AWS resources like EC2 instances, S3 buckets,A
 - Integrate the script with crontab to generate a report everyday at 6PM
 - Finally , append the output with a aws_resource_report.log file
 
+## Output
+
+![Image](https://github.com/user-attachments/assets/5e9f7961-86d6-443e-a9e3-ccebeae4e4c8)
+
+
+
+
   
